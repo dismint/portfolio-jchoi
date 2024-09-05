@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Justin Choi"
+  text: "Portfolio"
+  tagline: "MIT-F24"
   actions:
     - theme: brand
       text: Template Repository

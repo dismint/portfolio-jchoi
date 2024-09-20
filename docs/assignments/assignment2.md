@@ -50,11 +50,7 @@ Mentioned frequently through this assignment so far, Obsidian is a note-taking a
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100wh;">
-<figure>
-  <img src='https://cdn.discordapp.com/attachments/927366769641922571/1285729882151714836/IMG_1708.png?ex=66eb54c3&is=66ea0343&hm=045685afc4304e8e2c24f3403b6c70be52bd6d5210ccf0f24dc787958bff3b93&'>
-</figure>
-</div>
+![sup](../assets/facebook.png)
 
 This is a screenshot taken from my personal Facebook account - a general purpose social media platform. Other than useful basic utility such as being able to like, comment, or share the post, there is one interesting aspect of this I wish to try and replicate in Webber. That feature is the fact that this wasn't exactly an explicit post that I made to my account. Rather, this "post" was made in response to me changing my profile picture, and it just so happened that I could conveniently add a description to this change. I imagine that Webber will be much of the same. Instead of posts regarding new content, much of what makes Webber tick as a social media platform will be based off of a system of updated to your account, whether that's adding a new link or reacting to someone else's web.
 
@@ -62,11 +58,7 @@ This is a screenshot taken from my personal Facebook account - a general purpose
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100wh;">
-<figure>
-  <img src='https://media.discordapp.net/attachments/927366769641922571/1285732567877947454/image.png?ex=66eb5743&is=66ea05c3&hm=0f9eff870c017fd526c9140325a7b669a2d67975e25d0180d9ae9330e24411b1&=&format=webp&quality=lossless&width=1058&height=626'>
-</figure>
-</div>
+![sup](../assets/compare.png)
 
 This example is from a website called `alternativeto.com`, which aims to give competing options for basically anything. There are several useful features we see in this screenshot, such as the ability to see features, the license model, and even user sentiment through comments about which one is better. The social aspect of Webber can perhaps draw from this type of application.
 
@@ -74,11 +66,7 @@ This example is from a website called `alternativeto.com`, which aims to give co
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100wh;">
-<figure>
-  <img src='https://media.discordapp.net/attachments/927366769641922571/1285734959314763898/image.png?ex=66eb597e&is=66ea07fe&hm=ef20e135b8555ffaf9a5225e2d40e945193d5654ce59a4e9cec8914c43ab5097&=&format=webp&quality=lossless&width=1058&height=495'>
-</figure>
-</div>
+![sup](../assets/threads.png)
 
 Threads is a relatively new competitor to X - I think that the aesthetics of the website are incredibly clean, and the simple feed that gets shown to you is not overwhelming, but shows you enough information such that you are informed on whether you want to click into it and find out more about the social media piece. Everything is very clearly labeled, such as the ability to see which feed you want to be shown being represented as a dropdown at the very top of the screen.
 
@@ -151,8 +139,4 @@ Webber needs to balance around a thin line when it comes to it's presentation. U
 
 ## Storyboards
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100wh;">
-<figure>
-  <img src='https://media.discordapp.net/attachments/927366769641922571/1285798219405594644/IMG_1709.jpg?ex=66eb9468&is=66ea42e8&hm=4b531ab5d1de6a396b975a581279423c9ebaa7bf664e4ae2152b281710ac37b7&=&format=webp&width=1058&height=719'>
-</figure>
-</div>
+![sup](../assets/storyboard.png)

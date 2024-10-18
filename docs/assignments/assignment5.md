@@ -44,3 +44,8 @@ layout: doc
 - One thing that I think I could have done better is the consistency of the buttons. I think that the buttons are very consistent in their design, but I think that the buttons could have been more consistent in their placement. For example, the delete button is on the right side of the screen, but the add button is on the left side of the screen. 
 
 - In terms of other applications, I think it is a good idea to constantly remind myself that this should be a usable application, and although I might want to add fancy bells and whistles, I should always try to base the design off of existing applications to make sure that there is nothing extremely unfamiliar to the user.
+
+## Frontend
+
+[Code Repository](https://github.com/dismint/a5)
+[Code Deployment](https://a5-chi.vercel.app/)

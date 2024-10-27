@@ -48,4 +48,15 @@ layout: doc
 ## Frontend
 
 [Code Repository](https://github.com/dismint/a5)
+
 [Code Deployment](https://a5-chi.vercel.app/)
+
+## Visual Study
+
+### Typeography
+
+![](../assets/typography.png)
+
+### Colors
+
+![](../assets/colors.png)

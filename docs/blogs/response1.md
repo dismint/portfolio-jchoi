@@ -3,6 +3,8 @@ title: Response to Matthew
 layout: doc
 ---
 
+Original Blog: [Design that Matters](https://msequeir.github.io/portfolio-msequeir/blogs/blog4.html)
+
 # Response to Matthew
 
 Great discussion about the direction that companies tend to go in - I've also frequently noticed that companies care about development velocity first and then the direction afterwards. I actually wrote about this more fully in my blog post, and reading your response really fleshed out how I thought about the difference between moving fast and moving with direction. 

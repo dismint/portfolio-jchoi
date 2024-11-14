@@ -44,9 +44,9 @@ Value: Existing solutions either require users to pay for styling advice from pr
 ## Feature Brainstorm
 1. Closets – Users can add clothes to their closet and save their favorite outfits as well.
 2. Challenges - Users can style other users’ closets to create outfits depending on set parameters (for example, for a certain event or for a certain mood/style), and can also set their own challenges for upcoming events or just everyday wear. The user who sets the challenge can rate the results and pick their favorite outfit, or the one that they actually wore.
-3. Achievements/Badges - Users can get achievements for being selected as the best outfit in challenges, not buying clothes for a long time, buying sustainably, and other examples of good behavior on the app. They can display these on their profile.
+3. Achievements - Users can get achievements for being selected as the best outfit in challenges, not buying clothes for a long time, buying sustainably, and other examples of good behavior on the app. They can display these on their profile.
 4. Tagging/Labeling - Users can tag challenges, outfits, and clothing items with tags denoting style (such as how conservative the outfit is) and practicality (such as what type of weather or occasion the outfit is suited for).
-5.  Miniclosets - Users can pick a subset of their closet to be a “minicloset.” They can create challenges using these miniclosets so that other users can only pick out of this subset. This is useful for going on vacation when you only bring a small subset of your closet but still want outfit ideas.
+5. Miniclosets - Users can pick a subset of their closet to be a “minicloset.” They can create challenges using these miniclosets so that other users can only pick out of this subset. This is useful for going on vacation when you only bring a small subset of your closet but still want outfit ideas.
 6. Repurpose Tutorials - Users can upload videos showing other users how to tailor their own clothes (for people who have a hard time finding clothes that fit them) and/or repurpose clothes in different ways (like turning skirts into shirts or making them into a bag, etc.)
 7. Calendar Challenge maker - We can make an integration with Google Calendar, so that when users create an event in Google calendar, our app can automatically generate a challenge for that event.
 8. Outfit Timeline - This feature will allow users to see what outfits they have worn in the past whether it is a year, a season, a month, or a week.
@@ -83,45 +83,36 @@ Features:
 - Tagging/ labeling
 - Miniclosets
 
-Standard features, listed for completeness:
-- Authing
-- Sessioning
-- User
-- Upvoting
-- Commenting
-- Friending
 
-Our ones:
-- Clothing [User, Label]
-- Outfit-ing [Item, User]
-- Closet-ing [Item, User]
-- Challenging [User]
-- Achievementing [User]
-- Labeling [Item]
+### Clothing [User]
+**Purpose**: represents an article of clothing owned by a user.
 
-### Clothing [User, Label]
-**Purpose**: represents an article of clothing owned by a user with labels representing metadata about it.
-**Operational Principle**: a user can upload a picture of an article of clothing they own and select labels that describe the clothing, and the clothing can be found by its labels.
+**Operational Principle**: a user can upload a picture of an article of clothing they own such that this item will now be a part of their set of clothing
 
-### Outfit-ing [Item, User]
-**Purpose**: allows for users to create an outfit out of a combination of items and can suggest them to other users.
-**Operational Principle**:  users can add 2+ items together to create an outfit. Outfit must have a top and bottom or one-piece and shoes.
+### Outfiting [Item, User]
+**Purpose**: allows for users to create an outfit out of a combination of items.
 
-### Closet-ing [Item, User]
+**Operational Principle**:  users can group items together to create an outfit. Outfit must have one pair of shoes in addition to a top and bottom or one-piece.
+
+### Closeting [Item, User]
 **Purpose**: users can group items into closets (or miniclosets) representing a set or subset of items they own
+
 **Operational Principle**: after a user creates a closet (and before they delete it), the user can use the addItem action to add clothing items to this closet such that when the user views this closet, the item will be there. 
 
 ### Challenging [User]
 **Purpose**: allows users to set objectives for other users to fulfill.
-**Operational Principle**: after a user creates a challenge, it will be available for other users to see and submit entries to. After some time, the original user can select one or more winning entries.
+
+**Operational Principle**: after a user creates a challenge, it will be available for other users to see and submit entries to. Then the original user can select one or more winning entries after ending the challenge.
 
 ### Achievementing [User]
 **Purpose**: allow a user to be rewarded for good behavior and display these awards to other users.
+
 **Operational Principle**: after a user behaves in a way that should be encouraged, they are given an achievement that reflects this behavior that is visible to other users.
 
-### Labeling [Item]
+### Tagging [Item]
 **Purpose**: provide information about an item.
-**Operational Principle**: an item is labeled with a label that provides information about it and this item can be found by the label.
+
+**Operational Principle**: an item is given a label that provides information about it.
 
 
 
@@ -132,4 +123,3 @@ Our ones:
 ![justin storyboard](https://i.imgur.com/v1eI2Rp.png)
 
 ![jennifer storyboard](https://i.imgur.com/OmRfscP.png)
-

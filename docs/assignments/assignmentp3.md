@@ -478,13 +478,13 @@ sync getAchievements(u: User)
 
 ## Project Plan
 Concept Order:
-Authing, Session given to us
-Clothing
-Collectioning [Clothing, User]
-Outfiting
-Challenging
-Labeling
-Achievementing
+1.  Authing, Session given to us
+2. Clothing
+3. Collectioning [Clothing, User]
+4. Outfiting
+5. Challenging
+6. Labeling
+7. Achievementing
 
 
 | Concept         | Task                                          | Date          | Person        |

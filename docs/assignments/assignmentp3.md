@@ -1,14 +1,3 @@
-Standard concepts, listed for completeness:
-- Authing
-- Sessioning
-
-Our ones:
-- Clothing [User]
-- Outfit-ing [Item, User]
-- Collection-ing [Item, User]
-- Challenging [Collection, Item, User]
-- Labeling [Item]
-- Achievementing [User]
 ---
 title: P3 Convergent Design
 layout: doc

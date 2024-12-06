@@ -33,7 +33,7 @@ User: populator, password: 1 - used for populating -->
 
 
 # User Testing
-<!--## User List→
+<!--## User List-->
 We plan to interview three participants, who are all potential users of our system.
 1. Ella Choi
 2. Will Walling-Sotolongo 
